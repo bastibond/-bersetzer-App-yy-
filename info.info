@@ -1,1 +1,13 @@
 
+------haha ---------
+1 ang_selection.grid(column=2, row=0)
+2
+ 3   options_frame = ctk.CTkFrame(haha )
+  4  options_frame.grid(column=1, row=1)
+  5  button1 = ctk.CTkButton(options_frame, text="Open File", command=open_file)
+  6  button1.pack()
+  7  button2 = ctk.CTkButton(options_frame, text="Save File", command=save_file)
+  8  button2.pack()
+9
+ 1 0  original_text_frame = ctk.CTkFrame(ha ha)
+  11  original_text_frame.grid(column=1, row=2
