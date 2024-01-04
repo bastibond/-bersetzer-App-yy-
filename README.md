@@ -1,3 +1,8 @@
+---------
+#####################
+https://github.com/bastibond/-bersetzer-App-yy-/blob/main/info.info
+#####################################
+
 # -b  Übersetzer-App--yy-
 
 
@@ -38,3 +43,7 @@ https://lh3.googleusercontent.com/pS_JgKyC0splOZ15NffrzSNMWRHM3vsj5PQfXa97PP0P4H
 ------------
 [https://customtkinter.tomschimansky.com/
 ](https://github.com/bastibond/CustomTkinter)https://github.com/bastibond/CustomTkinter
+---------
+#####################
+https://github.com/bastibond/-bersetzer-App-yy-/blob/main/info.info
+#####################################
